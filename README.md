@@ -1,3 +1,3 @@
 # HamoyeInternship
 
-The solution on every assessment on the Hamoye Internship.
+The solution to the assessments on the Hamoye Internship.

@@ -1,3 +1,3 @@
 # HamoyeInternship
 
-The solution Assessment problems the Hamoye's Internship.
+The solution on every assessment on the Hamoye Internship.
